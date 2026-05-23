@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
   images: {
     remotePatterns: [],
     // Allow all local images
-    unoptimized: true,
+    unoptimized: false,
   },
   experimental: {
     optimizePackageImports: ["react-icons"],

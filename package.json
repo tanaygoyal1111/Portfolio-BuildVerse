@@ -18,7 +18,7 @@
     "gsap": "^3.12.5",
     "lenis": "^1.0.45",
     "lucide-react": "latest",
-    "next": "14.2.3",
+    "next": "^14.2.15",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.6.0",
